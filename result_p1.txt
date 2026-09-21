@@ -1,0 +1,10 @@
+Cardiology               	: 35 admissions
+Dermatology              	: 16 admissions
+ENT                      	: 20 admissions
+General Medicine         	: 42 admissions
+Gynecology               	: 22 admissions
+Neurology                	: 35 admissions
+Oncology                 	: 22 admissions
+Orthopedics              	: 31 admissions
+Pediatrics               	: 30 admissions
+Pulmonology              	: 20 admissions

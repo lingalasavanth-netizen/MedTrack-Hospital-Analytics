@@ -1,0 +1,6 @@
+2026-01	: 43 admissions
+2026-02	: 45 admissions
+2026-03	: 47 admissions
+2026-04	: 48 admissions
+2026-05	: 47 admissions
+2026-06	: 43 admissions

@@ -1,0 +1,6 @@
+2026-01	: General Medicine (8 patients)
+2026-02	: Neurology (7 patients)
+2026-03	: Cardiology (7 patients)
+2026-04	: General Medicine (8 patients)
+2026-05	: Neurology (7 patients)
+2026-06	: General Medicine (6 patients)
